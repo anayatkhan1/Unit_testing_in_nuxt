@@ -86,4 +86,4 @@ https://github.com/anayatkhan1/Unit_testing_in_nuxt/assets/73161735/8b79ff1f-3dc
 
 Thats it !
 
-#### Congratulations, you are now start unit testing in Nuxt 3 ☺️
+#### Congratulations, you are now ready to start unit testing in Nuxt 3 ☺️
