@@ -39,7 +39,7 @@ Below, I'll provide you with a step-by-step guide on how to start unit testing i
   ![tsconfig1](https://github.com/anayatkhan1/oneheadlight/assets/73161735/c63c39f8-0a08-4539-bce4-1b30f96e99cc)
   
 
-### Create a folder called `test` and place a file named `imports.test.ts` or `imports.spec.ts` inside the folder.
+#### Create a folder called `test` and place a file named `imports.test.ts` or `imports.spec.ts` inside the folder.
 
 - In this specific file, the Vue `import` statement actaully works for a component.
   
