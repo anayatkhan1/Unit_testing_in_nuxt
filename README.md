@@ -20,7 +20,7 @@ Below, I'll provide you with a step-by-step guide on how to start unit testing i
   npm install -D vitejs/plugin-vue
   ```
 
-### Now create a `vitest.config.ts` configuration file for vitest.
+#### create a `vitest.config.ts` configuration file for vitest.
 
  - In the config file we need to import `defineConfig` also we have to import `vue` from that plugin library.
   
